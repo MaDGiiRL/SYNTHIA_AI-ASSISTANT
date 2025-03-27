@@ -4,19 +4,6 @@
 
 ---
 
-## Table of Contents
-1. [✨ Overview](#-overview)  
-2. [💡 Key Features](#-key-features)  
-3. [🏗️ Project Structure](#-project-structure)  
-4. [🛠 Technologies Used](#-technologies-used)  
-5. [🔧 Installation & Setup](#-installation--setup)  
-6. [🚀 Usage](#-usage)  
-7. [🎨 Design & Typography](#-design--typography)  
-8. [🤝 Contributing](#-contributing)  
-9. [📄 License](#-license)
-
----
-
 ## ✨ Overview
 **Synthia** is a prototype AI dashboard that guides users from a **Splash Screen** to **Login**, then into an **AI Dashboard** featuring a **sidebar** and **chat box**. It’s built with **HTML**, **CSS**, and **Bootstrap 5**, designed for easy customization and future integration with real AI functionalities.
 
